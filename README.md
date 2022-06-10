@@ -58,10 +58,10 @@
 
 ###  以下是我印象比較深刻的專案
 
--demo-log-aop —log 增強
--demo-exception-handler —用 AOP 方式處理例外
--demo-cache-redis—裡面有現成的測試案例，跑測試的先決條件：專案可在本地運行
--demo-docker 可使用此專案的 mvn 設定，並搭配官網的教學(注意 version),打包前先檢查本地能不能動
+- demo-log-aop —log 增強
+- demo-exception-handler —用 AOP 方式處理例外
+- demo-cache-redis—裡面有現成的測試案例，跑測試的先決條件：專案可在本地運行
+- demo-docker 可使用此專案的 mvn 設定，並搭配官網的教學(注意 version),打包前先檢查本地能不能動
 
 
 ### 各 Module 介绍
