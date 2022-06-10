@@ -56,23 +56,13 @@
 
 ## 其他
 
-###  团队纳新
+###  以下是我印象比較深刻的專案
 
-组内招人啦，HC 巨多，Base 杭州，感兴趣的小伙伴，查看 [岗位详情](./jd.md)
+-demo-log-aop —log 增強
+-demo-exception-handler —用 AOP 方式處理例外
+-demo-cache-redis—裡面有現成的測試案例，跑測試的先決條件：專案可在本地運行
+-demo-docker 可使用此專案的 mvn 設定，並搭配官網的教學(注意 version),打包前先檢查本地能不能動
 
-### 开源推荐
-
-![11628591293_.pic_hd](https://static.aliyun.xkcoding.com/2021/08/14/11628591293pichd.jpg?x-oss-process=style/tag_compress)
-
-- `JustAuth`：史上最全的整合第三方登录的开源库，https://github.com/justauth/JustAuth
-- `Mica`：SpringBoot 微服务高效开发工具集，https://github.com/lets-mica/mica
-- `awesome-collector`：https://github.com/P-P-X/awesome-collector
-- `SpringBlade`：完整的线上解决方案(企业开发必备)，https://github.com/chillzhuang/SpringBlade
-- `Pig`：宇宙最强微服务认证授权脚手架(架构师必备)，https://github.com/pigxcloud/pig
-
-### 开发计划
-
-查看 [TODO](./TODO.md) 文件
 
 ### 各 Module 介绍
 
